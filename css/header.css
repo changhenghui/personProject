@@ -1,0 +1,93 @@
+.main{
+	/*height:107px;*/
+}
+.header{
+	width:1400px;
+	height:107px;
+	position:relative;
+	background:url(../img/header.jpg) no-repeat center right;
+}
+.header>.logo{
+	width:230px;
+	height:107px;
+	line-height: 107px;
+	position:absolute;
+	left:0;
+	top:10px;
+}
+.header>.search{
+	position:absolute;
+	left:400px;
+	top:22px;
+	height:50px;
+}
+.header>.search>.searchInput{
+	display:inline;
+
+}
+.header>.search>.searchInput>.key{
+	width:400px;
+	height:22px;
+	border:1px solid #41a53a;
+}
+.header>.search>.searchInput>.btn{
+
+}
+.header>.search>.hotKwords{
+	margin-top: 5px;
+}
+.header>.search>.hotKwords>.red{
+	display:inline-block;
+	margin-right: 15px;
+	color:#41a53a;
+}
+.header>.search>.hotKwords>a{
+	font-size: 12px;
+	color:#333333;
+}
+.header>.search>.hotKwords>a:hover{
+	color:#ff9900;
+}
+.header>.tel{
+	position:absolute;
+	right:230px;
+	top:10px;
+}
+
+
+
+
+
+
+
+.title>.titleBar li a{
+	display:inline-block;
+	font-size:16px;
+	height:42px;
+	vertical-align: middle;
+	line-height:42px;
+	color:#000;
+}
+.title>.titleBar>.firstTitle{
+	border-bottom:-3px solid #4AB344;
+}
+.title>.titleBar>.firstTitle>.color1{
+	color:#4AB344;
+}
+.title>.logo>img{
+	vertical-align: middle;
+}
+.title>.titleBar li:hover{
+	border-bottom:3px solid #4AB344;
+}
+.title>.titleBar li a:hover{
+	color:#4AB344;
+}
+.title>.login{
+	display:block;
+	position:absolute;
+	right:200px;
+	top:36%;
+}
+
+

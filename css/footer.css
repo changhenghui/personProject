@@ -1,0 +1,39 @@
+.footer{
+	background:#14A13B;
+	color:white;
+}
+.footer>.msg{
+	text-align:center;
+	margin:0 auto;
+}
+.footer>.msg>.msg1>.fontset{
+	font-size:18px;
+}
+table tr th{
+	font-size:18px;
+	padding:15px 0;
+}
+a{
+	color:#fff;
+	font-size:12px;
+}
+.footer>.list{
+	/*float:left;*/
+}
+.footer>.list>.listMsg{
+	width:280px;
+	float:left;
+	text-align: center;
+}
+.footer>.line>img{
+	width:1400px;
+}
+.footer1,.footer2{
+	text-align: center;
+	color:#fff;
+	font-size:12px;
+}
+.footer1{
+	margin-top:15px;
+}
+
